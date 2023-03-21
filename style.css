@@ -82,7 +82,7 @@ strong{
   min-width: fit-content;
   border: none;
 }
-.btnSub:hover{
+.btnSub:hover, .btnMess:hover{
   background-color: rgb(194, 197, 194);
   color: black;
 
